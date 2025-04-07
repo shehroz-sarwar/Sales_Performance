@@ -33,7 +33,7 @@ Utilized **DAX** to develop custom calculated measures and columns, including:
  
 ![Dashboard Preview](Report/Sales_Performance.jpg)
 
-[Download Dashboard (PDF)](Report/Pizza_Shop_Report.pdf)
+[Download Dashboard (PDF)](Report/Pizza_Shop.pdf)
 
 [Download Dashboard (.pbix)](Power_BI_report/Pizza_Shop.pbix)
 
