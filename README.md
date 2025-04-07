@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This Power BI report analyzes pizza shop sales data to reveal trends about **popular pizza sizes, sales by category**, and weekly performance. 
+This Power BI report analyzes pizza shop sales data to show KPI'S, Sales trend, weekly performance, sales over category and size.
 
 ## 🧰 Tools Used
 
@@ -28,8 +28,8 @@ Utilized **DAX** to develop custom calculated measures and columns, including:
 
  
 ### 4. Interactive Report Development
-- Built a comprehensive and user-friendly **Power BI Report**
-- Added interactive filters for analyzing by date, pizza category, and size
+- Built **Power BI Report**
+- Added interactive filters for analyzing by date and pizza category
  
 ![Dashboard Preview](Report/Sales_Performance.jpg)
 
@@ -44,6 +44,7 @@ Utilized **DAX** to develop custom calculated measures and columns, including:
 - **Average Order Size**: $39
 - **Average Pizzas per Order**: 2.34
 - **Total Orders Processed**: Over 2,000
+- **Total Quantity sold**: 4000
 
 ### 🍕 Sales by Pizza Category
 - **Classic pizzas** are most popular (~27% sales)
@@ -58,15 +59,15 @@ Utilized **DAX** to develop custom calculated measures and columns, including:
 ### 📏 Pizza Size Preferences
 - **Large pizzas** significantly outsell other sizes
 - **Medium and Small pizzas** have steady but lower demand
-➡️ Prioritize ingredient stocking and promotions for large pizzas.
+➡️ Prioritize promotions for large pizzas.
 
-## 🚀 Dashboard Usage Guide
+## 🚀 Report Usage Guide
 
 1. Open the `.pbix` file with **Power BI Desktop**
    [Download Dashboard (pbix)](Power_BI_report/Pizza_Shop.pbix)
 2. Refresh data to view updated insights
-3. Use built-in filters (date, category, size) for deeper exploration
-4. Apply these insights to enhance operational decisions and strategies
+3. Use built-in filters (date, category) for deeper exploration
+
 
  
 
