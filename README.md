@@ -19,8 +19,15 @@ This Power BI report analyzes detailed pizza shop sales data to reveal trends ab
 
 ### 2. Data Cleaning
 - Employed **Power Query Editor** for e data cleaning
+
+### 3. Data Modeling
+Utilized **DAX** to develop custom calculated measures and columns, including:
+  - Average pizzas per transaction
+  - Revenue metrics (total and average order values)
+  - Sales distribution across pizza sizes and categories
+
  
-### 3. Interactive Report Development
+### 4. Interactive Report Development
 - Built a comprehensive and user-friendly **Power BI Report**
 - Added interactive filters for analyzing by date, pizza category, and size
  
