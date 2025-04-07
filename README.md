@@ -72,6 +72,13 @@ Utilized **DAX** to develop custom calculated measures and columns, including:
 3. Use built-in filters (date, category) for deeper exploration
 
 
+## Bonus
+![Report Preview](Infographics/Infographics.png)
+
+[Download Infographics(pdf)](Infographics/Infographics.pdf)
+
+
+
  
 
 📫 [**Questions or Feedback?** Connect on LinkedIn!](https://www.linkedin.com/in/shehrozsarwar)
