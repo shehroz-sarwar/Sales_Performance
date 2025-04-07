@@ -31,7 +31,7 @@ Utilized **DAX** to develop custom calculated measures and columns, including:
 - Built a comprehensive and user-friendly **Power BI Report**
 - Added interactive filters for analyzing by date, pizza category, and size
  
-![Dashboard Preview](Report/Pizza_Shop_Report.png)
+![Dashboard Preview](Report/Sales_Performance.jpg)
 
 [Download Dashboard (PDF)](Report/Pizza_Shop_Report.pdf)
 
