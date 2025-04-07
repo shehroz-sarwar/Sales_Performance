@@ -15,7 +15,7 @@ This Power BI report analyzes pizza shop sales data to reveal trends about **pop
 ### 1. Data Connection
 - Connected Power BI with local Mircrosoft SQL server
 
-📊 [Download Source Data](Data/Pizza_Shop_Sales.xlsx)
+📊 [Download Source Data](Data/pizza_sales_excel_file.xlsx)
 
 ### 2. Data Cleaning
 - Employed **Power Query Editor** for e data cleaning
