@@ -73,7 +73,7 @@ Utilized **DAX** to develop custom calculated measures and columns, including:
 
 
 ## Bonus
-I used SQL quries to cross check answers with Power BI.  
+I used SQL quries to cross check calculations with Power BI.  
 [Download SQL quries](SQL_Quries/SQL_Quries.docx)
 
 
