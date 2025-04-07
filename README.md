@@ -2,18 +2,18 @@
 
 ## 📌 Project Overview
 
-This Power BI report analyzes detailed pizza shop sales data to reveal trends about **popular pizza sizes, sales by category**, and weekly performance. The project transforms raw sales data into strategic insights, aiding pizza businesses in improving efficiency, profitability, and customer satisfaction.
+This Power BI report analyzes pizza shop sales data to reveal trends about **popular pizza sizes, sales by category**, and weekly performance. 
 
 ## 🧰 Tools Used
 
 - **Power BI Desktop** – for data visualization and modeling
 - **Power Query Editor** – for data cleaning and preparation
-- **DAX (Data Analysis Expressions)** – for advanced calculations and business metrics
+- **DAX (Data Analysis Expressions)** – for calculations and business metrics
 
 ## 🔄 Process
 
 ### 1. Data Connection
-- Connected local Microsoft SQL server with Power BI
+- Connected Power BI with local Mircrosoft SQL server
 
 📊 [Download Source Data](Data/Pizza_Shop_Sales.xlsx)
 
