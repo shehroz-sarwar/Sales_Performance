@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This Power BI report analyzes detailed pizza shop sales data to reveal trends about **customer preferences, popular pizza sizes, sales by category**, and weekly performance. The project transforms raw sales data into strategic insights, aiding pizza businesses in improving efficiency, profitability, and customer satisfaction.
+This Power BI report analyzes detailed pizza shop sales data to reveal trends about **popular pizza sizes, sales by category**, and weekly performance. The project transforms raw sales data into strategic insights, aiding pizza businesses in improving efficiency, profitability, and customer satisfaction.
 
 ## 🧰 Tools Used
 
