@@ -49,16 +49,19 @@ Utilized **DAX** to develop custom calculated measures and columns, including:
 ### 🍕 Sales by Pizza Category
 - **Classic pizzas** are most popular (~27% sales)
 - **Supreme**, **Chicken**, and **Veggie** pizzas each represent around 25%
+  
 ➡️ Diverse tastes suggest targeted promotions and menu optimization.
 
 ### 📅 Peak Sales Days
 - Maximum sales recorded on **Thursday and Friday**
 - Lower sales typically seen on **Sunday and Monday**
+  
 ➡️ Effective resource planning during high-demand periods is crucial.
 
 ### 📏 Pizza Size Preferences
 - **Large pizzas** significantly outsell other sizes
 - **Medium and Small pizzas** have steady but lower demand
+  
 ➡️ Prioritize promotions for large pizzas.
 
 ## 🚀 Report Usage Guide
