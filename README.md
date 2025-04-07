@@ -35,7 +35,7 @@ Utilized **DAX** to develop custom calculated measures and columns, including:
 
 [Download Dashboard (PDF)](Report/Pizza_Shop_Report.pdf)
 
-[Download Dashboard (.pbix)](Power_BI_Report/Pizza_Shop.pbix)
+[Download Dashboard (.pbix)](Power_BI_report/Pizza_Shop.pbix)
 
 ## 🔍 Insights
 
@@ -63,7 +63,7 @@ Utilized **DAX** to develop custom calculated measures and columns, including:
 ## 🚀 Dashboard Usage Guide
 
 1. Open the `.pbix` file with **Power BI Desktop**
-   [Download Dashboard (pbix)](Power_BI_Report/Pizza_Shop.pbix)
+   [Download Dashboard (pbix)](Power_BI_report/Pizza_Shop.pbix)
 2. Refresh data to view updated insights
 3. Use built-in filters (date, category, size) for deeper exploration
 4. Apply these insights to enhance operational decisions and strategies
